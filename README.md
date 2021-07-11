@@ -1,6 +1,8 @@
 # Kotlin Random Maze Generator
 An automated maze generation algorithm method to create random mazes in Kotlin
 
+![2021-07-11 15_00_32-MazeGenerator – main kt  MazeGenerator main](https://user-images.githubusercontent.com/36234545/125194436-f8dafd00-e259-11eb-8f86-c50d3f62e56b.png)
+
 This is a simple maze generator written in Kotlin with the purpose of learning Kotlin language basics as well as having some grasp and applying of algorithms and data structures knowledge.
 
 This DFS class contains both Iterative and Recursive implementation of the DFS traversal algorithm, so you can read the code and learn both of them, since recursion can cause stack overflow problems, I wanted to write and learn both. 
